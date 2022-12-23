@@ -1,4 +1,4 @@
-Login de mi página
+//Log-in de mi página
 for (i = 1 ; i < 4 ; i++) { 
     let usuario = prompt ("Ingrese su Usuario");
     let contraseña = prompt ("ingrese su contraseña");
