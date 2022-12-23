@@ -12,8 +12,6 @@ for (i = 1 ; i < 4 ; i++) {
 
     }
 
-
-   
     alert("Lista de zapatillas: \n \n Zapatillas Puma ID = 0 \n Zapatilla Nike ID = 1 \n Zapatillas Adidas ID = 2")
 
     productosZapatillas = [
