@@ -52,5 +52,5 @@ submit.addEventListener("click", (e) => {
 
 async function redireccionar() {
   await new Promise((resolve) => setTimeout(resolve, 3000));
-  window.location.href = "../pages/tienda.html";
+  window.location.href = "./pages/tienda.html";
 }
