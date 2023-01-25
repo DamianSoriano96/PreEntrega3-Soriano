@@ -1,0 +1,31 @@
+{
+  "productos": [
+    {
+      "url": "3f4734ecfc4809cc01ab5225ca3392e9.jpg",
+      "nombre": "Zapatilla Puma",
+      "precio": 30000
+    },
+    {
+      "url": "usama-akram-kP6knT7tjn4-unsplash.jpg",
+      "nombre": "Zapatilla Nike",
+      "precio": 32000
+    },
+
+    {
+      "url": "daen-van-beers-BOSJ0NJKezc-unsplash.jpg",
+      "nombre": "Zapatilla Adidas",
+      "precio": 37000
+    },
+
+    {
+      "url": "erik-mclean-uATb7yrHSNE-unsplash.jpg",
+      "nombre": "Zapatilla Vans",
+      "precio": 28000
+    },
+    {
+      "url": "fachry-zella-devandra-bNSdIkCBJOs-unsplash.jpg",
+      "nombre": "Zapatilla Adidas 2",
+      "precio": 38000
+    }
+  ]
+}
