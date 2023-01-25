@@ -122,7 +122,7 @@ const showHTML = () => {
   countProducts.innerText = totalOfProducts;
 };
 
-fetch("/data.json")
+fetch("../data.json")
   .then((respuesta) => respuesta.json())
   .then((data) => {
     console.log(data);
@@ -132,7 +132,7 @@ fetch("/data.json")
 			<div class="item">
 			<figure>
 				<img
-					src="assets/Img/${producto.url}"
+					src="../assets/Img/${producto.url}"
 					alt="producto"
 				/>
 			</figure>
